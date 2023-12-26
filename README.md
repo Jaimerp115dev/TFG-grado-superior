@@ -10,4 +10,5 @@ En esta pagina de GitHub estará toda la información y código de mi TFG de gra
 <h3>Diseño</h3>
 <p>A continuacion se pueden ver algunas imagenes del diseño realizado en figma para el desarrollo del boceto que nos permitio realizar un diseño común a todos los integrantes del grupo</p>
 <a href='https://postimg.cc/Sj9ry7nc' target='_blank'><img src='https://i.postimg.cc/Sj9ry7nc/Pantalla-inicio.jpg' border='0' alt='Pantalla-inicio'/></a>
-
+<a href="https://postimg.cc/4m6Rh9S9" target="_blank"><img src="https://i.postimg.cc/4m6Rh9S9/INICIAR-SESI-N-CORREO.png" alt="INICIAR-SESI-N-CORREO"/></a><br/><br/>
+<a href="https://postimg.cc/dhJPRVbS" target="_blank"><img src="https://i.postimg.cc/dhJPRVbS/REGISTRARSE.png" alt="REGISTRARS
