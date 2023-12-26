@@ -14,8 +14,8 @@ En esta pagina de GitHub estará toda la información y código de mi TFG de gra
 <a href="https://postimg.cc/4m6Rh9S9" target="_blank"><img src="https://i.postimg.cc/4m6Rh9S9/INICIAR-SESI-N-CORREO.png" alt="INICIAR-SESI-N-CORREO"/></a>
 <a href="https://postimg.cc/dhJPRVbS" target="_blank"><img src="https://i.postimg.cc/dhJPRVbS/REGISTRARSE.png" alt="REGISTRARSE"/></a>
 <h4>Dentro de la app</h4>
-<a href="https://postimg.cc/N5zCFfgH" target="_blank"><img src="https://i.postimg.cc/N5zCFfgH/A-adir-a-listas.png" alt="A-adir-a-listas"/></a><br/><br/>
-<a href="https://postimg.cc/hJ922LVL" target="_blank"><img src="https://i.postimg.cc/hJ922LVL/JUEGO.png" alt="JUEGO"/></a><br/><br/>
-<a href="https://postimg.cc/nX9RDbzw" target="_blank"><img src="https://i.postimg.cc/nX9RDbzw/Lista.png" alt="Lista"/></a><br/><br/>
-<a href="https://postimg.cc/p9N0QG5V" target="_blank"><img src="https://i.postimg.cc/p9N0QG5V/Misma-franquicia.png" alt="Misma-franquicia"/></a><br/><br/>
+<a href="https://postimg.cc/N5zCFfgH" target="_blank"><img src="https://i.postimg.cc/N5zCFfgH/A-adir-a-listas.png" alt="A-adir-a-listas"/></a>
+<a href="https://postimg.cc/hJ922LVL" target="_blank"><img src="https://i.postimg.cc/hJ922LVL/JUEGO.png" alt="JUEGO"/></a>
+<a href="https://postimg.cc/nX9RDbzw" target="_blank"><img src="https://i.postimg.cc/nX9RDbzw/Lista.png" alt="Lista"/></a>
+<a href="https://postimg.cc/p9N0QG5V" target="_blank"><img src="https://i.postimg.cc/p9N0QG5V/Misma-franquicia.png" alt="Misma-franquicia"/></a>
 
