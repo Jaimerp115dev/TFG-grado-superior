@@ -6,3 +6,6 @@ En esta pagina de GitHub estará toda la información y código de mi TFG de gra
 
 <h2>Objetivo del proyecto</h2>
 <p>El objetivo del TFG fue realizar una aplicacion con funciones similares a una red social que nos permitiese compartir opiniones y listas de nuestros videojuegos favoritos</p>
+
+<h3>Diseño</h3>
+<p>A continuacion se pueden ver imagenes del diseño realizado en figma para el desarrollo del boceto que nos permitio realizar un diseño común a todos los integrantes del grupo</p>
